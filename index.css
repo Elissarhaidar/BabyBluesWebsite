@@ -292,7 +292,7 @@ h2 {
 }
 
 #mc_embed_signup form {
-  text-align: center;
+  text-align: center !important;
 }
 
 #mc_embed_signup .button {
